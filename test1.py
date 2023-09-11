@@ -1,4 +1,4 @@
-mport streamlit as st
+import streamlit as st
 import langchain  # Hypothetical LangChain library
 import pdf2txt  # Hypothetical PDF text extraction library
 import openai  # Hypothetical OpenAI GPT library
